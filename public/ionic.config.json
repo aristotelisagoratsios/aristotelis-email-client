@@ -1,0 +1,8 @@
+{
+  "name": "Aristotelis Email Client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "24146e2b"
+}
