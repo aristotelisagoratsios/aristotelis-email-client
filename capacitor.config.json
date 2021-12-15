@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Aristotelis Email Client",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
