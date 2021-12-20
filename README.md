@@ -1,1 +1,1 @@
-# aristotelis-email-client
+This is an Email App Client!
